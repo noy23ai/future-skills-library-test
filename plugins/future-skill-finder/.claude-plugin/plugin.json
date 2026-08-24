@@ -1,0 +1,6 @@
+{
+  "displayName": "Future Skill Finder",
+  "name": "future-skill-finder",
+  "description": "Search the Future Skills marketplace from your session, and save what you find. Every listing carries a security scan.",
+  "author": { "name": "Future Skills", "url": "https://marketplace.future.security" }
+}

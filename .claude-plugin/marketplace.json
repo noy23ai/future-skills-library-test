@@ -1,0 +1,20 @@
+{
+  "description": "Skills you saved on Future Skills. Yours alone; this is not a public list.",
+  "name": "future-skills",
+  "owner": {
+    "name": "Future Skills",
+    "url": "https://marketplace.future.security"
+  },
+  "plugins": [
+    {
+      "description": "3 skills from your Library. Every one was scanned.",
+      "name": "my-skills",
+      "source": "./plugins/my-skills"
+    },
+    {
+      "description": "Search the marketplace from your session and save what you find. Every listing carries a security scan.",
+      "name": "future-skill-finder",
+      "source": "./plugins/future-skill-finder"
+    }
+  ]
+}

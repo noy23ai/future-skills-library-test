@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "future-skills": {
+      "type": "http",
+      "url": "https://marketplace.future.security/api/mcp"
+    }
+  }
+}

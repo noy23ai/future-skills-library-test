@@ -1,0 +1,36 @@
+{
+  "generator": "future-skills",
+  "note": "Digests of what we wrote, by the same function that identifies a scanned skill. Check a copy with `future-skills verify`. This is a record, not an enforced pin: nothing refuses to install on a mismatch.",
+  "skills": [
+    {
+      "content_hash": "c66f2e8f509ad220cd6c54fac95db5e56f53895214905edbbaf830b90fa647b8",
+      "id": "6a8b48024599dc0721883364",
+      "name": "brainstorming",
+      "path": "skills/brainstorming",
+      "scanned_at": "2026-08-20T12:44:20.208980+00:00",
+      "trust_score": "CAUTION",
+      "url": "https://marketplace.future.security/skills/6a8b48024599dc0721883364",
+      "verdict": "fail"
+    },
+    {
+      "content_hash": "70b57f8bd49a0577a7978ba60ab87a86663be3e1c7d45083f7ea0e3c9c462418",
+      "id": "6a8b48024599dc07218836b4",
+      "name": "playwright-cli",
+      "path": "skills/playwright-cli",
+      "scanned_at": "2026-08-17T15:42:52.058595+00:00",
+      "trust_score": "CAUTION",
+      "url": "https://marketplace.future.security/skills/6a8b48024599dc07218836b4",
+      "verdict": "fail"
+    },
+    {
+      "content_hash": "9099d09be81a031948afca1d2c3f5f96f301622db82ce8843bf2f61cd4d916cb",
+      "id": "6a8b48024599dc0721883887",
+      "name": "imagegen-frontend-mobile",
+      "path": "skills/imagegen-frontend-mobile",
+      "scanned_at": "2026-08-19T20:17:33.498663+00:00",
+      "trust_score": "SAFE",
+      "url": "https://marketplace.future.security/skills/6a8b48024599dc0721883887",
+      "verdict": "pass"
+    }
+  ]
+}
