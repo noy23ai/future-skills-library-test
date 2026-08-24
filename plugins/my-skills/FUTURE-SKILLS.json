@@ -31,6 +31,16 @@
       "trust_score": "SAFE",
       "url": "https://marketplace.future.security/skills/6a8b48024599dc0721883887",
       "verdict": "pass"
+    },
+    {
+      "content_hash": "fe0f5dc295c71a5b4ea49616641eee401a0fc3ffd33d22b78ea1b6969bbccf4f",
+      "id": "6a8c3470b81d01ef3d1285a5",
+      "name": "receiving-code-review",
+      "path": "skills/receiving-code-review",
+      "scanned_at": "2026-08-13T09:26:26.358529+00:00",
+      "trust_score": "SAFE",
+      "url": "https://marketplace.future.security/skills/6a8c3470b81d01ef3d1285a5",
+      "verdict": "pass"
     }
   ]
 }

@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "description": "3 skills from your Library. Every one was scanned.",
+      "description": "4 skills from your Library. Every one was scanned.",
       "name": "my-skills",
       "source": "./plugins/my-skills"
     },

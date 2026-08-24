@@ -9,6 +9,8 @@ the verdict shown is what it carried when this was written.
   https://marketplace.future.security/skills/6a8b48024599dc07218836b4
 - **imagegen-frontend-mobile** (`imagegen-frontend-mobile`) — scan: pass, trust: SAFE
   https://marketplace.future.security/skills/6a8b48024599dc0721883887
+- **receiving-code-review** (`receiving-code-review`) — scan: pass, trust: SAFE
+  https://marketplace.future.security/skills/6a8c3470b81d01ef3d1285a5
 
 ## Finding more
 

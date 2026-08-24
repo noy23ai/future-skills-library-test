@@ -23,6 +23,7 @@ repository's URL. There are **two plugins** in here — install both:
 - **brainstorming** — scan: fail, trust: CAUTION
 - **playwright-cli** — scan: fail, trust: CAUTION
 - **imagegen-frontend-mobile** — scan: pass, trust: SAFE
+- **receiving-code-review** — scan: pass, trust: SAFE
 
 ## Checking what you got
 
